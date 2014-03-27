@@ -1,6 +1,21 @@
-*.class
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package gitnames;
+import javax.swing.*;
 
-# Package Files #
-*.jar
-*.war
-*.ear
+/**
+ *
+ * @author 041401111
+ */
+public class GitNames {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // Add you name to the following string to be displayed.
+        JOptionPane.showMessageDialog(null, "Ryan");
+    }
+}

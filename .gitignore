@@ -16,6 +16,6 @@ public class GitNames {
      */
     public static void main(String[] args) {
         // Add you name to the following string to be displayed.
-        JOptionPane.showMessageDialog(null, "Ryan, Schyler, Gustavo, James");
+        JOptionPane.showMessageDialog(null, "Ryan, Schyler, Gustavo, James, Simeon");
     }
 }
